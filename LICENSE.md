@@ -1,1 +1,1 @@
-Copyright © 2011-2016 Chris Malley and Bob Schlesinger, All Rights Reserved.
+Copyright © 2011-2016 Purple Squirrel, All Rights Reserved.
